@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_6pM7MCT_Eeuw2rOJ9qHhKA" name="NewModel">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_AX_qACUAEeuw2rOJ9qHhKA" name="Garage"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BHkFwCUAEeuw2rOJ9qHhKA" name="Posti ">
+    <extend xmi:id="_2rLJ8CUAEeuw2rOJ9qHhKA" extendedCase="_ubGxMCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Cg4CECUAEeuw2rOJ9qHhKA" name="Disponibili">
+    <include xmi:id="_kJNDkCUAEeuw2rOJ9qHhKA" addition="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DhGI8CUAEeuw2rOJ9qHhKA" name="Occupati">
+    <include xmi:id="_j0pI0CUAEeuw2rOJ9qHhKA" addition="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_RPmgUCUAEeuw2rOJ9qHhKA" name="Tipologia">
+    <extend xmi:id="_S2RGsCUBEeuw2rOJ9qHhKA" extendedCase="_VjzgcCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_TKMIQCUBEeuw2rOJ9qHhKA" extendedCase="_XUmIoCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_TejOsCUBEeuw2rOJ9qHhKA" extendedCase="_ZXEWsCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_VjzgcCUAEeuw2rOJ9qHhKA" name="Auto normale"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_XUmIoCUAEeuw2rOJ9qHhKA" name="Auto di lusso"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZXEWsCUAEeuw2rOJ9qHhKA" name="Dim notevoli"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ubGxMCUAEeuw2rOJ9qHhKA" name="Auto">
+    <extend xmi:id="_v8iHsCUAEeuw2rOJ9qHhKA" extendedCase="_RPmgUCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_x79o0CUAEeuw2rOJ9qHhKA" extendedCase="_wYxXwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_wYxXwCUAEeuw2rOJ9qHhKA" name="Carburante">
+    <extend xmi:id="_Q0li0CUBEeuw2rOJ9qHhKA" extendedCase="_yRRKcCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_RWjAYCUBEeuw2rOJ9qHhKA" extendedCase="_y-OXECUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_yRRKcCUAEeuw2rOJ9qHhKA" name="Gpl">
+    <include xmi:id="_V0ImACUBEeuw2rOJ9qHhKA" addition="_BkSokCUBEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_y-OXECUAEeuw2rOJ9qHhKA" name="Non Gpl">
+    <include xmi:id="_WVOg4CUBEeuw2rOJ9qHhKA" addition="_BkSokCUBEeuw2rOJ9qHhKA"/>
+    <include xmi:id="_W3CNcCUBEeuw2rOJ9qHhKA" addition="_DojmYCUBEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_5Z1voCUAEeuw2rOJ9qHhKA" name="Livelli">
+    <extend xmi:id="_BIJfICUBEeuw2rOJ9qHhKA" extendedCase="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_AjKiwCUBEeuw2rOJ9qHhKA" memberEnd="_AjKiwSUBEeuw2rOJ9qHhKA _AjKiwiUBEeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_AjKiwSUBEeuw2rOJ9qHhKA" type="_AX_qACUAEeuw2rOJ9qHhKA" association="_AjKiwCUBEeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_AjKiwiUBEeuw2rOJ9qHhKA" type="_5Z1voCUAEeuw2rOJ9qHhKA" association="_AjKiwCUBEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BkSokCUBEeuw2rOJ9qHhKA" name="Primo Piano">
+    <include xmi:id="_FTQ0sCUBEeuw2rOJ9qHhKA" addition="_5Z1voCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DojmYCUBEeuw2rOJ9qHhKA" name="Altri piani">
+    <include xmi:id="_Fv8wsCUBEeuw2rOJ9qHhKA" addition="_5Z1voCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+</uml:Model>

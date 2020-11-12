@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_AE_dMCT6Eeuw2rOJ9qHhKA" name="NewModel">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Y5PZ8CT6Eeuw2rOJ9qHhKA" name="Ricercatore">
+    <extend xmi:id="_JYqykCT7Eeuw2rOJ9qHhKA" extendedCase="_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_CWBH0CT-Eeuw2rOJ9qHhKA" extendedCase="_w1cCcCT8Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_Ct3AECT-Eeuw2rOJ9qHhKA" extendedCase="_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_KFWLACT-Eeuw2rOJ9qHhKA" extendedCase="_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_aAhLECT6Eeuw2rOJ9qHhKA" memberEnd="_aAhLEST6Eeuw2rOJ9qHhKA _aAhyICT6Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_aAhLEST6Eeuw2rOJ9qHhKA" association="_aAhLECT6Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_aAhyICT6Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_aAhLECT6Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_jFVagCT6Eeuw2rOJ9qHhKA" memberEnd="_jFVagST6Eeuw2rOJ9qHhKA _jFWBkCT6Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_jFVagST6Eeuw2rOJ9qHhKA" association="_jFVagCT6Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_jFWBkCT6Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_jFVagCT6Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_lZdZQCT6Eeuw2rOJ9qHhKA" name="Progetto">
+    <extend xmi:id="_BvrLcCT8Eeuw2rOJ9qHhKA" extendedCase="_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_RdY6ICT_Eeuw2rOJ9qHhKA" extendedCase="_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_R64ucCT_Eeuw2rOJ9qHhKA" extendedCase="_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_SXE7MCT_Eeuw2rOJ9qHhKA" extendedCase="_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_tRXwsCT6Eeuw2rOJ9qHhKA" name="Centro di ricerca"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_wxZh4CT6Eeuw2rOJ9qHhKA" memberEnd="_wxZh4ST6Eeuw2rOJ9qHhKA _wxZh4iT6Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_wxZh4ST6Eeuw2rOJ9qHhKA" type="_tRXwsCT6Eeuw2rOJ9qHhKA" association="_wxZh4CT6Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_wxZh4iT6Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_wxZh4CT6Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_zxjgMCT6Eeuw2rOJ9qHhKA" name="Area di Sviluppo"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_1jeJwCT6Eeuw2rOJ9qHhKA" name="Responsabile Area">
+    <eAnnotations xmi:id="_1jeJwST6Eeuw2rOJ9qHhKA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_1jeJwiT6Eeuw2rOJ9qHhKA" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2fMyMCT6Eeuw2rOJ9qHhKA" memberEnd="_2fMyMST6Eeuw2rOJ9qHhKA _2fNZQCT6Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_2fMyMST6Eeuw2rOJ9qHhKA" type="_zxjgMCT6Eeuw2rOJ9qHhKA" association="_2fMyMCT6Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_2fNZQCT6Eeuw2rOJ9qHhKA" type="_1jeJwCT6Eeuw2rOJ9qHhKA" association="_2fMyMCT6Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_B9W3kCT7Eeuw2rOJ9qHhKA" memberEnd="_B9W3kST7Eeuw2rOJ9qHhKA _B9W3kiT7Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_B9W3kST7Eeuw2rOJ9qHhKA" type="_tRXwsCT6Eeuw2rOJ9qHhKA" association="_B9W3kCT7Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_B9W3kiT7Eeuw2rOJ9qHhKA" type="_zxjgMCT6Eeuw2rOJ9qHhKA" association="_B9W3kCT7Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_FIoEQCT8Eeuw2rOJ9qHhKA" name="Attivazione">
+    <include xmi:id="_LmL9kCT8Eeuw2rOJ9qHhKA" addition="_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+    <include xmi:id="_9gIhgCT-Eeuw2rOJ9qHhKA" addition="_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_aAZkYCT8Eeuw2rOJ9qHhKA" name="Responsabile Progetto">
+    <eAnnotations xmi:id="_aAZkYST8Eeuw2rOJ9qHhKA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_aAZkYiT8Eeuw2rOJ9qHhKA" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_fqgngCT8Eeuw2rOJ9qHhKA" memberEnd="_fqgngST8Eeuw2rOJ9qHhKA _fqhOkCT8Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_fqgngST8Eeuw2rOJ9qHhKA" type="_aAZkYCT8Eeuw2rOJ9qHhKA" association="_fqgngCT8Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_fqhOkCT8Eeuw2rOJ9qHhKA" type="_lZdZQCT6Eeuw2rOJ9qHhKA" association="_fqgngCT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_qh618CT8Eeuw2rOJ9qHhKA" memberEnd="_qh618ST8Eeuw2rOJ9qHhKA _qh7dACT8Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_qh618ST8Eeuw2rOJ9qHhKA" association="_qh618CT8Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_qh7dACT8Eeuw2rOJ9qHhKA" association="_qh618CT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_q7S_QCT8Eeuw2rOJ9qHhKA" memberEnd="_q7TmUCT8Eeuw2rOJ9qHhKA _q7TmUST8Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_q7TmUCT8Eeuw2rOJ9qHhKA" association="_q7S_QCT8Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_q7TmUST8Eeuw2rOJ9qHhKA" association="_q7S_QCT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_w1cCcCT8Eeuw2rOJ9qHhKA" name="Occupato">
+    <extend xmi:id="_xmmuwCT-Eeuw2rOJ9qHhKA" extendedCase="_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_xsiCgCT8Eeuw2rOJ9qHhKA" name="Libero"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_VhvyUCT9Eeuw2rOJ9qHhKA" memberEnd="_VhvyUST9Eeuw2rOJ9qHhKA _VhvyUiT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_VhvyUST9Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_VhvyUCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_VhvyUiT9Eeuw2rOJ9qHhKA" association="_VhvyUCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_b58DcCT9Eeuw2rOJ9qHhKA" memberEnd="_b58DcST9Eeuw2rOJ9qHhKA _b58DciT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_b58DcST9Eeuw2rOJ9qHhKA" association="_b58DcCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_b58DciT9Eeuw2rOJ9qHhKA" association="_b58DcCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_cMsnYCT9Eeuw2rOJ9qHhKA" memberEnd="_cMtOcCT9Eeuw2rOJ9qHhKA _cMtOcST9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_cMtOcCT9Eeuw2rOJ9qHhKA" association="_cMsnYCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_cMtOcST9Eeuw2rOJ9qHhKA" association="_cMsnYCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_k4YlICT9Eeuw2rOJ9qHhKA" memberEnd="_k4YlIST9Eeuw2rOJ9qHhKA _k4YlIiT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_k4YlIST9Eeuw2rOJ9qHhKA" association="_k4YlICT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_k4YlIiT9Eeuw2rOJ9qHhKA" association="_k4YlICT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_lNw_QCT9Eeuw2rOJ9qHhKA" memberEnd="_lNw_QST9Eeuw2rOJ9qHhKA _lNxmUCT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_lNw_QST9Eeuw2rOJ9qHhKA" association="_lNw_QCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_lNxmUCT9Eeuw2rOJ9qHhKA" association="_lNw_QCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_wB4pICT9Eeuw2rOJ9qHhKA" name="Ricercatore Senior">
+    <eAnnotations xmi:id="_wB5QMCT9Eeuw2rOJ9qHhKA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_wB5QMST9Eeuw2rOJ9qHhKA" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_xiCNQCT9Eeuw2rOJ9qHhKA" name="Ricercatore Junior">
+    <eAnnotations xmi:id="_xiC0UCT9Eeuw2rOJ9qHhKA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_xiC0UST9Eeuw2rOJ9qHhKA" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2jiYQCT9Eeuw2rOJ9qHhKA" memberEnd="_2jiYQST9Eeuw2rOJ9qHhKA _2jiYQiT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_2jiYQST9Eeuw2rOJ9qHhKA" type="_wB4pICT9Eeuw2rOJ9qHhKA" association="_2jiYQCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_2jiYQiT9Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_2jiYQCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_2-jgUCT9Eeuw2rOJ9qHhKA" memberEnd="_2-jgUST9Eeuw2rOJ9qHhKA _2-jgUiT9Eeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_2-jgUST9Eeuw2rOJ9qHhKA" type="_xiCNQCT9Eeuw2rOJ9qHhKA" association="_2-jgUCT9Eeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_2-jgUiT9Eeuw2rOJ9qHhKA" type="_Y5PZ8CT6Eeuw2rOJ9qHhKA" association="_2-jgUCT9Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_UP3eQCT-Eeuw2rOJ9qHhKA" name="In Corso">
+    <include xmi:id="_y5W6oCT_Eeuw2rOJ9qHhKA" addition="_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Xjt0oCT-Eeuw2rOJ9qHhKA" name="Finito">
+    <extend xmi:id="_zoyB4CT-Eeuw2rOJ9qHhKA" extendedCase="_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+    <include xmi:id="_yb7-0CT_Eeuw2rOJ9qHhKA" addition="_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+  </packagedElement>
+</uml:Model>

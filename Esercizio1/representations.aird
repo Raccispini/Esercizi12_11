@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_AEFeQCT6Eeuw2rOJ9qHhKA" selectedViews="_AHxrcCT6Eeuw2rOJ9qHhKA _AH4ZICT6Eeuw2rOJ9qHhKA _AH8DgCT6Eeuw2rOJ9qHhKA _AH_t4CT6Eeuw2rOJ9qHhKA _AICKICT6Eeuw2rOJ9qHhKA" version="12.0.0.201704271200">
+    <semanticResources>model.uml</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_AHxrcCT6Eeuw2rOJ9qHhKA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Reused']"/>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_AH4ZICT6Eeuw2rOJ9qHhKA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_CoZOECT6Eeuw2rOJ9qHhKA" name="Esercizio1" repPath="#_CoYnACT6Eeuw2rOJ9qHhKA">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']"/>
+        <target xmi:type="uml:Model" href="model.uml#_AE_dMCT6Eeuw2rOJ9qHhKA"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_AH8DgCT6Eeuw2rOJ9qHhKA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']"/>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_AH_t4CT6Eeuw2rOJ9qHhKA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Review']"/>
+    </ownedViews>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_AICKICT6Eeuw2rOJ9qHhKA">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Extend']"/>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_CoYnACT6Eeuw2rOJ9qHhKA" name="Esercizio1">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_CoYnAST6Eeuw2rOJ9qHhKA" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_CoYnAiT6Eeuw2rOJ9qHhKA"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_CoZ1ICT6Eeuw2rOJ9qHhKA" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_CoZ1IST6Eeuw2rOJ9qHhKA" type="Sirius" element="_CoYnACT6Eeuw2rOJ9qHhKA" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_Y5SdQCT6Eeuw2rOJ9qHhKA" type="2001" element="_Y5PZ8ST6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_Y5TEUCT6Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5TEUST6Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Y5UScCT6Eeuw2rOJ9qHhKA" type="3005" element="_Y5PZ8iT6Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Y5UScST6Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Y5USciT6Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_Y5SdQST6Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Y5SdQiT6Eeuw2rOJ9qHhKA" x="386" y="-195" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_lZhqsCT6Eeuw2rOJ9qHhKA" type="2001" element="_lZdZQST6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_lZhqsyT6Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_lZhqtCT6Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_lZiRwCT6Eeuw2rOJ9qHhKA" type="3005" element="_lZeAUCT6Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_lZiRwST6Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZiRwiT6Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_lZhqsST6Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZhqsiT6Eeuw2rOJ9qHhKA" x="500" y="-9" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_tRd3UCT6Eeuw2rOJ9qHhKA" type="2001" element="_tRYXwCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_tReeYCT6Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_tReeYST6Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_tReeYiT6Eeuw2rOJ9qHhKA" type="3003" element="_tRYXwST6Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_tReeYyT6Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tReeZCT6Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_tRd3UST6Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tRd3UiT6Eeuw2rOJ9qHhKA" x="110" y="-71" width="50" height="50"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_zxnxoCT6Eeuw2rOJ9qHhKA" type="2001" element="_zxkHQCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_zxnxoyT6Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_zxnxpCT6Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zxoYsCT6Eeuw2rOJ9qHhKA" type="3005" element="_zxkHQST6Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_zxoYsST6Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zxoYsiT6Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_zxnxoST6Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zxnxoiT6Eeuw2rOJ9qHhKA" x="319" y="200" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_1jjCQCT6Eeuw2rOJ9qHhKA" type="2001" element="_1jew0CT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_1jjCQyT6Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_1jjCRCT6Eeuw2rOJ9qHhKA" x="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_1jkQYCT6Eeuw2rOJ9qHhKA" type="3005" element="_1jew0ST6Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_1jkQYST6Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1jkQYiT6Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_1jjCQST6Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1jjCQiT6Eeuw2rOJ9qHhKA" x="175" y="255" width="30" height="52"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_FIwAECT8Eeuw2rOJ9qHhKA" type="2001" element="_FIorUCT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_FIwAEyT8Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_FIwAFCT8Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_FIycUCT8Eeuw2rOJ9qHhKA" type="3005" element="_FIorUST8Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_FIycUST8Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FIycUiT8Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_FIwAEST8Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FIwAEiT8Eeuw2rOJ9qHhKA" x="1120" y="75" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_aAec4CT8Eeuw2rOJ9qHhKA" type="2001" element="_aAZkYyT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_aAec4yT8Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_aAec5CT8Eeuw2rOJ9qHhKA" x="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_aAfrACT8Eeuw2rOJ9qHhKA" type="3005" element="_aAaLcCT8Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_aAfrAST8Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aAfrAiT8Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_aAec4ST8Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aAec4iT8Eeuw2rOJ9qHhKA" x="245" y="-45" width="30" height="52"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_w1hiACT8Eeuw2rOJ9qHhKA" type="2001" element="_w1cCcST8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_w1iJECT8Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_w1iJEST8Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_w1iJEiT8Eeuw2rOJ9qHhKA" type="3005" element="_w1cCciT8Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_w1iJEyT8Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w1iJFCT8Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_w1hiAST8Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_w1hiAiT8Eeuw2rOJ9qHhKA" x="755" y="-155" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_xsowMCT8Eeuw2rOJ9qHhKA" type="2001" element="_xsiCgST8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_xspXQCT8Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_xspXQST8Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xspXQiT8Eeuw2rOJ9qHhKA" type="3005" element="_xsiCgiT8Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_xspXQyT8Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xspXRCT8Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xsowMST8Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsowMiT8Eeuw2rOJ9qHhKA" x="1070" y="-195" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_wB9hoCT9Eeuw2rOJ9qHhKA" type="2001" element="_wB5QMiT9Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_wB9hoyT9Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_wB9hpCT9Eeuw2rOJ9qHhKA" x="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wB_94CT9Eeuw2rOJ9qHhKA" type="3005" element="_wB5QMyT9Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_wB_94ST9Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wB_94iT9Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_wB9hoST9Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wB9hoiT9Eeuw2rOJ9qHhKA" x="319" y="-295" width="30" height="52"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_xiPooCT9Eeuw2rOJ9qHhKA" type="2001" element="_xiC0UiT9Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_xiPooyT9Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_xiPopCT9Eeuw2rOJ9qHhKA" x="31"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xiQ2wCT9Eeuw2rOJ9qHhKA" type="3005" element="_xiC0UyT9Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_xiQ2wST9Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xiQ2wiT9Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_xiPooST9Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xiPooiT9Eeuw2rOJ9qHhKA" x="555" y="-295" width="30" height="52"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_UP8WwCT-Eeuw2rOJ9qHhKA" type="2001" element="_UP3eQST-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_UP8WwyT-Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_UP8WxCT-Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_UP890CT-Eeuw2rOJ9qHhKA" type="3005" element="_UP3eQiT-Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_UP890ST-Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UP890iT-Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_UP8WwST-Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UP8WwiT-Eeuw2rOJ9qHhKA" x="685" y="-70" width="140" height="47"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_XjzUMCT-Eeuw2rOJ9qHhKA" type="2001" element="_Xjt0oST-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_Xjz7QCT-Eeuw2rOJ9qHhKA" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Xjz7QST-Eeuw2rOJ9qHhKA" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Xjz7QiT-Eeuw2rOJ9qHhKA" type="3005" element="_Xjt0oiT-Eeuw2rOJ9qHhKA">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_Xjz7QyT-Eeuw2rOJ9qHhKA" fontName="Segoe UI"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Xjz7RCT-Eeuw2rOJ9qHhKA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_XjzUMST-Eeuw2rOJ9qHhKA" fontColor="7490599" fontName="Segoe UI"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XjzUMiT-Eeuw2rOJ9qHhKA" x="905" y="-55" width="140" height="47"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_CoZ1IiT6Eeuw2rOJ9qHhKA"/>
+        <edges xmi:type="notation:Edge" xmi:id="_wxeaYCT6Eeuw2rOJ9qHhKA" type="4001" element="_wxaI8CT6Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_tRd3UCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_wxeaZCT6Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxeaZST6Eeuw2rOJ9qHhKA" x="9" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wxeaZiT6Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxeaZyT6Eeuw2rOJ9qHhKA" x="-7" y="12"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wxfBcCT6Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wxfBcST6Eeuw2rOJ9qHhKA" x="-3" y="13"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_wxeaYST6Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_wxeaYiT6Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wxeaYyT6Eeuw2rOJ9qHhKA" points="[-34, 21, 287, -105]$[-296, 116, 25, -10]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wxfBciT6Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wxfBcyT6Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_2fTf4CT6Eeuw2rOJ9qHhKA" type="4001" element="_2fOnYCT6Eeuw2rOJ9qHhKA" source="_1jjCQCT6Eeuw2rOJ9qHhKA" target="_zxnxoCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_2fUG8CT6Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fUG8ST6Eeuw2rOJ9qHhKA" x="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2fUG8iT6Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fUG8yT6Eeuw2rOJ9qHhKA" x="4" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2fUG9CT6Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fUG9ST6Eeuw2rOJ9qHhKA" x="6" y="-10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_2fTf4ST6Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_2fTf4iT6Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2fTf4yT6Eeuw2rOJ9qHhKA" points="[15, -4, -184, 54]$[167, -36, -32, 22]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2fUG9iT6Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2fUG9yT6Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_B9eMUCT7Eeuw2rOJ9qHhKA" type="4001" element="_B9YswCT7Eeuw2rOJ9qHhKA" source="_zxnxoCT6Eeuw2rOJ9qHhKA" target="_tRd3UCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_B9eMVCT7Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B9eMVST7Eeuw2rOJ9qHhKA" x="2" y="-5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_B9eMViT7Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B9eMVyT7Eeuw2rOJ9qHhKA" x="2" y="4"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_B9eMWCT7Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_B9eMWST7Eeuw2rOJ9qHhKA" x="7" y="5"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_B9eMUST7Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_B9eMUiT7Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_B9eMUyT7Eeuw2rOJ9qHhKA" points="[-32, -21, 222, 248]$[-232, -244, 22, 25]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B9eMWiT7Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B9eMWyT7Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_JYxgQCT7Eeuw2rOJ9qHhKA" type="4001" element="_JYsAsCT7Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_lZhqsCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_JYxgRCT7Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYxgRST7Eeuw2rOJ9qHhKA" x="-17" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JYxgRiT7Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYxgRyT7Eeuw2rOJ9qHhKA" x="-8" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_JYxgSCT7Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYxgSST7Eeuw2rOJ9qHhKA" x="-8" y="7"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_JYxgQST7Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_JYxgQiT7Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JYxgQyT7Eeuw2rOJ9qHhKA" points="[0, -2, -114, -141]$[114, 139, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JYyHUCT7Eeuw2rOJ9qHhKA" id="(0.5,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JYyHUST7Eeuw2rOJ9qHhKA" id="(0.5,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_BvwrACT8Eeuw2rOJ9qHhKA" type="4001" element="_BvsZkCT8Eeuw2rOJ9qHhKA" source="_lZhqsCT6Eeuw2rOJ9qHhKA" target="_zxnxoCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_BvxSECT8Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BvxSEST8Eeuw2rOJ9qHhKA" x="-2" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Bvx5ICT8Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bvx5IST8Eeuw2rOJ9qHhKA" x="9" y="11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Bvx5IiT8Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Bvx5IyT8Eeuw2rOJ9qHhKA" x="8" y="9"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_BvwrAST8Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_BvwrAiT8Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BvwrAyT8Eeuw2rOJ9qHhKA" points="[0, 0, 186, -162]$[-187, 163, -1, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Bvx5JCT8Eeuw2rOJ9qHhKA" id="(0.5357142857142857,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Bvx5JST8Eeuw2rOJ9qHhKA" id="(0.5,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_LmSEMCT8Eeuw2rOJ9qHhKA" type="4001" element="_LmNLsCT8Eeuw2rOJ9qHhKA" source="_FIwAECT8Eeuw2rOJ9qHhKA" target="_zxnxoCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_LmTSUCT8Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LmTSUST8Eeuw2rOJ9qHhKA" x="15" y="-1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LmT5YCT8Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LmT5YST8Eeuw2rOJ9qHhKA" x="11" y="13"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LmT5YiT8Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LmT5YyT8Eeuw2rOJ9qHhKA" x="11" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_LmSEMST8Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_LmSEMiT8Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LmSEMyT8Eeuw2rOJ9qHhKA" points="[0, 0, 701, -88]$[-711, 87, -10, -1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LmT5ZCT8Eeuw2rOJ9qHhKA" id="(0.2857142857142857,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LmT5ZST8Eeuw2rOJ9qHhKA" id="(1.0,0.2127659574468085)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_fqojUCT8Eeuw2rOJ9qHhKA" type="4001" element="_fqicsCT8Eeuw2rOJ9qHhKA" source="_lZhqsCT6Eeuw2rOJ9qHhKA" target="_aAec4CT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_fqojVCT8Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fqojVST8Eeuw2rOJ9qHhKA" x="-11" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fqojViT8Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fqojVyT8Eeuw2rOJ9qHhKA" x="26" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_fqojWCT8Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fqojWST8Eeuw2rOJ9qHhKA" x="28" y="11"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_fqojUST8Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_fqojUiT8Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fqojUyT8Eeuw2rOJ9qHhKA" points="[-70, -7, 240, 26]$[-311, -27, -1, 6]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fqpKYCT8Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fqpKYST8Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_2jptACT9Eeuw2rOJ9qHhKA" type="4001" element="_2jjmYCT9Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_wB9hoCT9Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_2jqUECT9Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2jqUEST9Eeuw2rOJ9qHhKA" x="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2jqUEiT9Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2jqUEyT9Eeuw2rOJ9qHhKA" x="-4" y="3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2jqUFCT9Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2jqUFST9Eeuw2rOJ9qHhKA" x="-3" y="2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_2jptAST9Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_2jptAiT9Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2jptAyT9Eeuw2rOJ9qHhKA" points="[-24, -22, 98, 75]$[-107, -86, 15, 11]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2jtXYCT9Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2jtXYST9Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_2-pm8CT9Eeuw2rOJ9qHhKA" type="4001" element="_2-lVgCT9Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_xiPooCT9Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_2-pm9CT9Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2-pm9ST9Eeuw2rOJ9qHhKA" x="-7" y="-3"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2-pm9iT9Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2-pm9yT9Eeuw2rOJ9qHhKA" x="7" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_2-qOACT9Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2-qOAST9Eeuw2rOJ9qHhKA" x="1" y="-2"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_2-pm8ST9Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_2-pm8iT9Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2-pm8yT9Eeuw2rOJ9qHhKA" points="[27, -22, -87, 75]$[99, -85, -15, 12]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2-qOAiT9Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2-qOAyT9Eeuw2rOJ9qHhKA" id="(0.5,0.5)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_CWHOcCT-Eeuw2rOJ9qHhKA" type="4001" element="_CWC9ACT-Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_w1hiACT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_CWHOdCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CWHOdST-Eeuw2rOJ9qHhKA" x="8" y="-13"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_CWHOdiT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CWHOdyT-Eeuw2rOJ9qHhKA" x="-18" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_CWH1gCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CWH1gST-Eeuw2rOJ9qHhKA" x="-16" y="5"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_CWHOcST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_CWHOciT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CWHOcyT-Eeuw2rOJ9qHhKA" points="[13, -2, -328, 5]$[280, -7, -61, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CWH1giT-Eeuw2rOJ9qHhKA" id="(0.6357142857142857,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_CWH1gyT-Eeuw2rOJ9qHhKA" id="(0.4357142857142857,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_Ct9GsCT-Eeuw2rOJ9qHhKA" type="4001" element="_Ct4OMCT-Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_xsowMCT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_Ct9GtCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ct9GtST-Eeuw2rOJ9qHhKA" x="-3" y="-16"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ct9GtiT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ct9GtyT-Eeuw2rOJ9qHhKA" x="-4" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Ct9GuCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ct9GuST-Eeuw2rOJ9qHhKA" x="-7" y="4"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_Ct9GsST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_Ct9GsiT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ct9GsyT-Eeuw2rOJ9qHhKA" points="[-2, 0, -546, 5]$[544, -5, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ct9GuiT-Eeuw2rOJ9qHhKA" id="(1.0,0.425531914893617)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ct9GuyT-Eeuw2rOJ9qHhKA" id="(0.0,0.3191489361702128)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_KFc4sCT-Eeuw2rOJ9qHhKA" type="4001" element="_KFYAMCT-Eeuw2rOJ9qHhKA" source="_Y5SdQCT6Eeuw2rOJ9qHhKA" target="_zxnxoCT6Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_KFdfwCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KFdfwST-Eeuw2rOJ9qHhKA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_KFdfwiT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KFdfwyT-Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_KFdfxCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KFdfxST-Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_KFc4sST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_KFc4siT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KFc4syT-Eeuw2rOJ9qHhKA" points="[0, 0, 87, -464]$[-87, 464, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KFdfxiT-Eeuw2rOJ9qHhKA" id="(0.42142857142857143,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_KFdfxyT-Eeuw2rOJ9qHhKA" id="(0.4357142857142857,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_xmuqkCT-Eeuw2rOJ9qHhKA" type="4001" element="_xmoj8CT-Eeuw2rOJ9qHhKA" source="_w1hiACT8Eeuw2rOJ9qHhKA" target="_UP8WwCT-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_xmuqlCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xmuqlST-Eeuw2rOJ9qHhKA" x="-1" y="1"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xmuqliT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xmuqlyT-Eeuw2rOJ9qHhKA" x="6" y="8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_xmuqmCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xmuqmST-Eeuw2rOJ9qHhKA" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_xmuqkST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_xmuqkiT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xmuqkyT-Eeuw2rOJ9qHhKA" points="[0, 0, 90, -38]$[-90, 39, 0, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xmuqmiT-Eeuw2rOJ9qHhKA" id="(0.5428571428571428,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xmvRoCT-Eeuw2rOJ9qHhKA" id="(0.4,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_zo59sCT-Eeuw2rOJ9qHhKA" type="4001" element="_zozQACT-Eeuw2rOJ9qHhKA" source="_XjzUMCT-Eeuw2rOJ9qHhKA" target="_xsowMCT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_zo59tCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zo59tST-Eeuw2rOJ9qHhKA" x="-3" y="-19"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zo59tiT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zo59tyT-Eeuw2rOJ9qHhKA" x="2" y="-2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zo59uCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zo59uST-Eeuw2rOJ9qHhKA" x="2" y="-1"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_zo59sST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_zo59siT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zo59syT-Eeuw2rOJ9qHhKA" points="[11, -7, -120, 94]$[130, -103, -1, -2]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zo59uiT-Eeuw2rOJ9qHhKA" id="(0.6357142857142857,0.1702127659574468)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zo59uyT-Eeuw2rOJ9qHhKA" id="(0.39285714285714285,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_9gPPMCT-Eeuw2rOJ9qHhKA" type="4001" element="_9gKWsCT-Eeuw2rOJ9qHhKA" source="_FIwAECT8Eeuw2rOJ9qHhKA" target="_xsowMCT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_9gP2QCT-Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gP2QST-Eeuw2rOJ9qHhKA" x="-1" y="-8"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9gP2QiT-Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gP2QyT-Eeuw2rOJ9qHhKA" x="3" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_9gP2RCT-Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9gP2RST-Eeuw2rOJ9qHhKA" x="5" y="8"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_9gPPMST-Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_9gPPMiT-Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9gPPMyT-Eeuw2rOJ9qHhKA" points="[0, 0, 51, 223]$[-51, -225, 0, -2]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9gP2RiT-Eeuw2rOJ9qHhKA" id="(0.5071428571428571,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9gP2RyT-Eeuw2rOJ9qHhKA" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_RdgO4CT_Eeuw2rOJ9qHhKA" type="4001" element="_RdbWYCT_Eeuw2rOJ9qHhKA" source="_lZhqsCT6Eeuw2rOJ9qHhKA" target="_UP8WwCT-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_RdgO5CT_Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RdgO5ST_Eeuw2rOJ9qHhKA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Rdg18CT_Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rdg18ST_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_Rdg18iT_Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rdg18yT_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_RdgO4ST_Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_RdgO4iT_Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RdgO4yT_Eeuw2rOJ9qHhKA" points="[0, 0, -140, 55]$[140, -55, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Rdg19CT_Eeuw2rOJ9qHhKA" id="(0.5714285714285714,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Rdg19ST_Eeuw2rOJ9qHhKA" id="(0.0,0.425531914893617)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_R7AqQCT_Eeuw2rOJ9qHhKA" type="4001" element="_R66joCT_Eeuw2rOJ9qHhKA" source="_lZhqsCT6Eeuw2rOJ9qHhKA" target="_XjzUMCT-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_R7AqRCT_Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R7AqRST_Eeuw2rOJ9qHhKA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R7AqRiT_Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R7AqRyT_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_R7AqSCT_Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_R7AqSST_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_R7AqQST_Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_R7AqQiT_Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_R7AqQyT_Eeuw2rOJ9qHhKA" points="[0, 0, -353, 47]$[353, -47, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R7BRUCT_Eeuw2rOJ9qHhKA" id="(1.0,0.5106382978723404)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_R7BRUST_Eeuw2rOJ9qHhKA" id="(0.0,0.7446808510638298)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_SXMP8CT_Eeuw2rOJ9qHhKA" type="4001" element="_SXGwYCT_Eeuw2rOJ9qHhKA" source="_lZhqsCT6Eeuw2rOJ9qHhKA" target="_FIwAECT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_SXMP9CT_Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SXMP9ST_Eeuw2rOJ9qHhKA" x="-1" y="-11"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_SXMP9iT_Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SXMP9yT_Eeuw2rOJ9qHhKA" x="-1" y="9"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_SXMP-CT_Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SXMP-ST_Eeuw2rOJ9qHhKA" x="1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_SXMP8ST_Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_SXMP8iT_Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SXMP8yT_Eeuw2rOJ9qHhKA" points="[-6, -1, -486, -85]$[480, 84, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SXMP-iT_Eeuw2rOJ9qHhKA" id="(1.0,0.723404255319149)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SXMP-yT_Eeuw2rOJ9qHhKA" id="(0.0,0.723404255319149)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_ycDTkCT_Eeuw2rOJ9qHhKA" type="4001" element="_yb90ACT_Eeuw2rOJ9qHhKA" source="_XjzUMCT-Eeuw2rOJ9qHhKA" target="_UP8WwCT-Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_ycD6oCT_Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycD6oST_Eeuw2rOJ9qHhKA" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ycD6oiT_Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycD6oyT_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ycD6pCT_Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ycD6pST_Eeuw2rOJ9qHhKA" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_ycDTkST_Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_ycDTkiT_Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ycDTkyT_Eeuw2rOJ9qHhKA" points="[0, 0, 106, 0]$[-106, 0, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ycD6piT_Eeuw2rOJ9qHhKA" id="(0.0,0.1702127659574468)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ycD6pyT_Eeuw2rOJ9qHhKA" id="(1.0,0.48936170212765956)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_y5ePYCT_Eeuw2rOJ9qHhKA" type="4001" element="_y5Yv0CT_Eeuw2rOJ9qHhKA" source="_UP8WwCT-Eeuw2rOJ9qHhKA" target="_FIwAECT8Eeuw2rOJ9qHhKA">
+          <children xmi:type="notation:Node" xmi:id="_y5ePZCT_Eeuw2rOJ9qHhKA" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y5ePZST_Eeuw2rOJ9qHhKA" x="-1" y="-10" width="63" height="24"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y5ePZiT_Eeuw2rOJ9qHhKA" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y5ePZyT_Eeuw2rOJ9qHhKA" x="10" y="2"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_y5ePaCT_Eeuw2rOJ9qHhKA" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y5ePaST_Eeuw2rOJ9qHhKA" x="1" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_y5ePYST_Eeuw2rOJ9qHhKA"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_y5ePYiT_Eeuw2rOJ9qHhKA" fontName="Segoe UI" fontHeight="10"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_y5ePYyT_Eeuw2rOJ9qHhKA" points="[-2, 0, -372, -125]$[15, 74, -355, -51]$[369, 126, -1, 1]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y5ePaiT_Eeuw2rOJ9qHhKA" id="(1.0,0.425531914893617)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y5ePayT_Eeuw2rOJ9qHhKA" id="(0.5357142857142857,0.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_Y5PZ8ST6Eeuw2rOJ9qHhKA" name="Ricercatore" outgoingEdges="_wxaI8CT6Eeuw2rOJ9qHhKA _JYsAsCT7Eeuw2rOJ9qHhKA _2jjmYCT9Eeuw2rOJ9qHhKA _2-lVgCT9Eeuw2rOJ9qHhKA _CWC9ACT-Eeuw2rOJ9qHhKA _Ct4OMCT-Eeuw2rOJ9qHhKA _KFYAMCT-Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_Y5PZ8iT6Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_lZdZQST6Eeuw2rOJ9qHhKA" name="Progetto" outgoingEdges="_BvsZkCT8Eeuw2rOJ9qHhKA _fqicsCT8Eeuw2rOJ9qHhKA _RdbWYCT_Eeuw2rOJ9qHhKA _R66joCT_Eeuw2rOJ9qHhKA _SXGwYCT_Eeuw2rOJ9qHhKA" incomingEdges="_JYsAsCT7Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_lZeAUCT6Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_zxkHQCT6Eeuw2rOJ9qHhKA" name="Area di Sviluppo" outgoingEdges="_B9YswCT7Eeuw2rOJ9qHhKA" incomingEdges="_2fOnYCT6Eeuw2rOJ9qHhKA _BvsZkCT8Eeuw2rOJ9qHhKA _LmNLsCT8Eeuw2rOJ9qHhKA _KFYAMCT-Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_zxkHQST6Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_FIorUCT8Eeuw2rOJ9qHhKA" name="Attivazione" outgoingEdges="_LmNLsCT8Eeuw2rOJ9qHhKA _9gKWsCT-Eeuw2rOJ9qHhKA" incomingEdges="_SXGwYCT_Eeuw2rOJ9qHhKA _y5Yv0CT_Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_FIorUST8Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_w1cCcST8Eeuw2rOJ9qHhKA" name="Occupato" outgoingEdges="_xmoj8CT-Eeuw2rOJ9qHhKA" incomingEdges="_CWC9ACT-Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_w1cCcCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_w1cCcCT8Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_w1cCciT8Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_xsiCgST8Eeuw2rOJ9qHhKA" name="Libero" incomingEdges="_Ct4OMCT-Eeuw2rOJ9qHhKA _zozQACT-Eeuw2rOJ9qHhKA _9gKWsCT-Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_xsiCgiT8Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_UP3eQST-Eeuw2rOJ9qHhKA" name="In Corso" outgoingEdges="_y5Yv0CT_Eeuw2rOJ9qHhKA" incomingEdges="_xmoj8CT-Eeuw2rOJ9qHhKA _RdbWYCT_Eeuw2rOJ9qHhKA _yb90ACT_Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_UP3eQiT-Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_Xjt0oST-Eeuw2rOJ9qHhKA" name="Finito" outgoingEdges="_zozQACT-Eeuw2rOJ9qHhKA _yb90ACT_Eeuw2rOJ9qHhKA" incomingEdges="_R66joCT_Eeuw2rOJ9qHhKA" width="14" height="14" resizeKind="NSEW">
+      <target xmi:type="uml:UseCase" href="model.uml#_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_Xjt0oiT-Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" labelPosition="node" workspacePath="/org.obeonetwork.dsl.uml2.design/images/use_case.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_UseCase']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_tRYXwCT6Eeuw2rOJ9qHhKA" name="Centro di ricerca" incomingEdges="_wxaI8CT6Eeuw2rOJ9qHhKA _B9YswCT7Eeuw2rOJ9qHhKA" width="5" height="5" resizeKind="NSEW">
+      <target xmi:type="uml:Actor" href="model.uml#_tRXwsCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Actor" href="model.uml#_tRXwsCT6Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_tRYXwST6Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" borderSize="1" borderSizeComputationExpression="1" borderColor="39,76,114" labelPosition="node" width="5" height="5" color="255,255,255">
+        <description xmi:type="style:SquareDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']/@conditionnalStyles.1/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_1jew0CT6Eeuw2rOJ9qHhKA" name="Responsabile Area" outgoingEdges="_2fOnYCT6Eeuw2rOJ9qHhKA" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="uml:Actor" href="model.uml#_1jeJwCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Actor" href="model.uml#_1jeJwCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="ecore:EAnnotation" href="model.uml#_1jeJwST6Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_1jew0ST6Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" workspacePath="/org.obeonetwork.dsl.uml2.design/images/actor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_aAZkYyT8Eeuw2rOJ9qHhKA" name="Responsabile Progetto" incomingEdges="_fqicsCT8Eeuw2rOJ9qHhKA" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="uml:Actor" href="model.uml#_aAZkYCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Actor" href="model.uml#_aAZkYCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="ecore:EAnnotation" href="model.uml#_aAZkYST8Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_aAaLcCT8Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" workspacePath="/org.obeonetwork.dsl.uml2.design/images/actor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_wB5QMiT9Eeuw2rOJ9qHhKA" name="Ricercatore Senior" incomingEdges="_2jjmYCT9Eeuw2rOJ9qHhKA" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="uml:Actor" href="model.uml#_wB4pICT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Actor" href="model.uml#_wB4pICT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="ecore:EAnnotation" href="model.uml#_wB5QMCT9Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_wB5QMyT9Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" workspacePath="/org.obeonetwork.dsl.uml2.design/images/actor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_xiC0UiT9Eeuw2rOJ9qHhKA" name="Ricercatore Junior" incomingEdges="_2-lVgCT9Eeuw2rOJ9qHhKA" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="uml:Actor" href="model.uml#_xiCNQCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Actor" href="model.uml#_xiCNQCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="ecore:EAnnotation" href="model.uml#_xiC0UCT9Eeuw2rOJ9qHhKA"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:WorkspaceImage" xmi:id="_xiC0UyT9Eeuw2rOJ9qHhKA" labelSize="9" showIcon="false" labelColor="39,76,114" workspacePath="/org.obeonetwork.dsl.uml2.design/images/actor.svg">
+        <description xmi:type="style:WorkspaceImageDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']/@conditionnalStyles.0/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@nodeMappings[name='UCD_Actor']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_wxaI8CT6Eeuw2rOJ9qHhKA" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_tRYXwCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_wxZh4CT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_wxZh4CT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_wxZh4iT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_wxZh4ST6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_wxawACT6Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_wxawAST6Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_2fOnYCT6Eeuw2rOJ9qHhKA" sourceNode="_1jew0CT6Eeuw2rOJ9qHhKA" targetNode="_zxkHQCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_2fMyMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_2fMyMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2fNZQCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2fMyMST6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_2fOnYST6Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_2fOnYiT6Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_B9YswCT7Eeuw2rOJ9qHhKA" sourceNode="_zxkHQCT6Eeuw2rOJ9qHhKA" targetNode="_tRYXwCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_B9W3kCT7Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_B9W3kCT7Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_B9W3kiT7Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_B9W3kST7Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_B9YswST7Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_B9YswiT7Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_JYsAsCT7Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_lZdZQST6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_JYqykCT7Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_JYqykCT7Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_JYsnwCT7Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_JYsnwST7Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_BvsZkCT8Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_lZdZQST6Eeuw2rOJ9qHhKA" targetNode="_zxkHQCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_BvrLcCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_BvrLcCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_BvsZkST8Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_BvsZkiT8Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_LmNLsCT8Eeuw2rOJ9qHhKA" name="« include »" sourceNode="_FIorUCT8Eeuw2rOJ9qHhKA" targetNode="_zxkHQCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Include" href="model.uml#_LmL9kCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Include" href="model.uml#_LmL9kCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_LmNLsST8Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_LmNLsiT8Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_fqicsCT8Eeuw2rOJ9qHhKA" sourceNode="_lZdZQST6Eeuw2rOJ9qHhKA" targetNode="_aAZkYyT8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_fqgngCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_fqgngCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_fqhOkCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_fqgngST8Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_fqicsST8Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_fqicsiT8Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_2jjmYCT9Eeuw2rOJ9qHhKA" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_wB5QMiT9Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_2jiYQCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_2jiYQCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2jiYQiT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2jiYQST9Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_2jjmYST9Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_2jjmYiT9Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_2-lVgCT9Eeuw2rOJ9qHhKA" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_xiC0UiT9Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Association" href="model.uml#_2-jgUCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Association" href="model.uml#_2-jgUCT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2-jgUiT9Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Property" href="model.uml#_2-jgUST9Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_2-lVgST9Eeuw2rOJ9qHhKA" targetArrow="NoDecoration" strokeColor="39,76,114">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_2-lVgiT9Eeuw2rOJ9qHhKA" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Association']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_CWC9ACT-Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_w1cCcST8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_CWBH0CT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_CWBH0CT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_w1cCcCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_CWC9AST-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_CWC9AiT-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Ct4OMCT-Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_xsiCgST8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_Ct3AECT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_Ct3AECT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Ct41QCT-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Ct41QST-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_KFYAMCT-Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_Y5PZ8ST6Eeuw2rOJ9qHhKA" targetNode="_zxkHQCT6Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_KFWLACT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_KFWLACT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_zxjgMCT6Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Y5PZ8CT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_KFYAMST-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_KFYAMiT-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_xmoj8CT-Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_w1cCcST8Eeuw2rOJ9qHhKA" targetNode="_UP3eQST-Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_xmmuwCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_xmmuwCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_w1cCcCT8Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_xmoj8ST-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_xmoj8iT-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_zozQACT-Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_Xjt0oST-Eeuw2rOJ9qHhKA" targetNode="_xsiCgST8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_zoyB4CT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_zoyB4CT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_zoz3ECT-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_zoz3EST-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_9gKWsCT-Eeuw2rOJ9qHhKA" name="« include »" sourceNode="_FIorUCT8Eeuw2rOJ9qHhKA" targetNode="_xsiCgST8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Include" href="model.uml#_9gIhgCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Include" href="model.uml#_9gIhgCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_xsiCgCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_9gKWsST-Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_9gKWsiT-Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_RdbWYCT_Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_lZdZQST6Eeuw2rOJ9qHhKA" targetNode="_UP3eQST-Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_RdY6ICT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_RdY6ICT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_RdbWYST_Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_RdbWYiT_Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_R66joCT_Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_lZdZQST6Eeuw2rOJ9qHhKA" targetNode="_Xjt0oST-Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_R64ucCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_R64ucCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_R67KsCT_Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_R67KsST_Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_SXGwYCT_Eeuw2rOJ9qHhKA" name="« extend »" sourceNode="_lZdZQST6Eeuw2rOJ9qHhKA" targetNode="_FIorUCT8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Extend" href="model.uml#_SXE7MCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Extend" href="model.uml#_SXE7MCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_lZdZQCT6Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_SXGwYST_Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_SXGwYiT_Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Extend']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_yb90ACT_Eeuw2rOJ9qHhKA" name="« include »" sourceNode="_Xjt0oST-Eeuw2rOJ9qHhKA" targetNode="_UP3eQST-Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Include" href="model.uml#_yb7-0CT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Include" href="model.uml#_yb7-0CT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_Xjt0oCT-Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_yb90AST_Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_yb90AiT_Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_y5Yv0CT_Eeuw2rOJ9qHhKA" name="« include »" sourceNode="_UP3eQST-Eeuw2rOJ9qHhKA" targetNode="_FIorUCT8Eeuw2rOJ9qHhKA">
+      <target xmi:type="uml:Include" href="model.uml#_y5W6oCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:Include" href="model.uml#_y5W6oCT_Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_FIoEQCT8Eeuw2rOJ9qHhKA"/>
+      <semanticElements xmi:type="uml:UseCase" href="model.uml#_UP3eQCT-Eeuw2rOJ9qHhKA"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_y5Yv0ST_Eeuw2rOJ9qHhKA" lineStyle="dash" strokeColor="0,0,0">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_y5Yv0iT_Eeuw2rOJ9qHhKA" labelSize="10" showIcon="false"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer/@edgeMappings[name='UCD_Include']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_CoYnBiT6Eeuw2rOJ9qHhKA"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Capture']/@ownedRepresentations[name='Use%20Case%20Diagram']/@defaultLayer"/>
+    <target xmi:type="uml:Model" href="model.uml#_AE_dMCT6Eeuw2rOJ9qHhKA"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
