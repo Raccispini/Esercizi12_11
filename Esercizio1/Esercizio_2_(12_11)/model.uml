@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_6pM7MCT_Eeuw2rOJ9qHhKA" name="NewModel">
+  <packagedElement xmi:type="uml:Actor" xmi:id="_AX_qACUAEeuw2rOJ9qHhKA" name="Garage"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BHkFwCUAEeuw2rOJ9qHhKA" name="Posti ">
+    <extend xmi:id="_2rLJ8CUAEeuw2rOJ9qHhKA" extendedCase="_ubGxMCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_Cg4CECUAEeuw2rOJ9qHhKA" name="Disponibili">
+    <include xmi:id="_kJNDkCUAEeuw2rOJ9qHhKA" addition="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+    <include xmi:id="_q57cUCW3EeuuQ86SLZdOdg" addition="_eZsO4CW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DhGI8CUAEeuw2rOJ9qHhKA" name="Occupati">
+    <extend xmi:id="_mGN1sCW3EeuuQ86SLZdOdg" extendedCase="_eZsO4CW3EeuuQ86SLZdOdg"/>
+    <extend xmi:id="_mfWucCW3EeuuQ86SLZdOdg" extendedCase="_kruNoCW3EeuuQ86SLZdOdg"/>
+    <include xmi:id="_j0pI0CUAEeuw2rOJ9qHhKA" addition="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_RPmgUCUAEeuw2rOJ9qHhKA" name="Tipologia">
+    <extend xmi:id="_S2RGsCUBEeuw2rOJ9qHhKA" extendedCase="_VjzgcCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_TKMIQCUBEeuw2rOJ9qHhKA" extendedCase="_XUmIoCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_TejOsCUBEeuw2rOJ9qHhKA" extendedCase="_ZXEWsCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_VjzgcCUAEeuw2rOJ9qHhKA" name="Auto normale"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_XUmIoCUAEeuw2rOJ9qHhKA" name="Auto di lusso"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ZXEWsCUAEeuw2rOJ9qHhKA" name="Dim notevoli"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_ubGxMCUAEeuw2rOJ9qHhKA" name="Auto">
+    <extend xmi:id="_v8iHsCUAEeuw2rOJ9qHhKA" extendedCase="_RPmgUCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_x79o0CUAEeuw2rOJ9qHhKA" extendedCase="_wYxXwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_wYxXwCUAEeuw2rOJ9qHhKA" name="Carburante">
+    <extend xmi:id="_Q0li0CUBEeuw2rOJ9qHhKA" extendedCase="_yRRKcCUAEeuw2rOJ9qHhKA"/>
+    <extend xmi:id="_RWjAYCUBEeuw2rOJ9qHhKA" extendedCase="_y-OXECUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_yRRKcCUAEeuw2rOJ9qHhKA" name="Gpl"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_y-OXECUAEeuw2rOJ9qHhKA" name="Non Gpl"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_5Z1voCUAEeuw2rOJ9qHhKA" name="Livelli">
+    <extend xmi:id="_BIJfICUBEeuw2rOJ9qHhKA" extendedCase="_BHkFwCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_AjKiwCUBEeuw2rOJ9qHhKA" memberEnd="_AjKiwSUBEeuw2rOJ9qHhKA _AjKiwiUBEeuw2rOJ9qHhKA">
+    <ownedEnd xmi:id="_AjKiwSUBEeuw2rOJ9qHhKA" type="_AX_qACUAEeuw2rOJ9qHhKA" association="_AjKiwCUBEeuw2rOJ9qHhKA"/>
+    <ownedEnd xmi:id="_AjKiwiUBEeuw2rOJ9qHhKA" type="_5Z1voCUAEeuw2rOJ9qHhKA" association="_AjKiwCUBEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_BkSokCUBEeuw2rOJ9qHhKA" name="Primo Piano">
+    <include xmi:id="_FTQ0sCUBEeuw2rOJ9qHhKA" addition="_5Z1voCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_DojmYCUBEeuw2rOJ9qHhKA" name="Altri piani">
+    <include xmi:id="_Fv8wsCUBEeuw2rOJ9qHhKA" addition="_5Z1voCUAEeuw2rOJ9qHhKA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_MbZdUCW3EeuuQ86SLZdOdg" memberEnd="_MbaEYCW3EeuuQ86SLZdOdg _MbaEYSW3EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_MbaEYCW3EeuuQ86SLZdOdg" type="_yRRKcCUAEeuw2rOJ9qHhKA" association="_MbZdUCW3EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_MbaEYSW3EeuuQ86SLZdOdg" type="_BkSokCUBEeuw2rOJ9qHhKA" association="_MbZdUCW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NAfHYCW3EeuuQ86SLZdOdg" memberEnd="_NAfucCW3EeuuQ86SLZdOdg _NAfucSW3EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_NAfucCW3EeuuQ86SLZdOdg" type="_y-OXECUAEeuw2rOJ9qHhKA" association="_NAfHYCW3EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_NAfucSW3EeuuQ86SLZdOdg" type="_BkSokCUBEeuw2rOJ9qHhKA" association="_NAfHYCW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_OXGVACW3EeuuQ86SLZdOdg" memberEnd="_OXGVASW3EeuuQ86SLZdOdg _OXGVAiW3EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_OXGVASW3EeuuQ86SLZdOdg" type="_DojmYCUBEeuw2rOJ9qHhKA" association="_OXGVACW3EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_OXGVAiW3EeuuQ86SLZdOdg" type="_y-OXECUAEeuw2rOJ9qHhKA" association="_OXGVACW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_eZsO4CW3EeuuQ86SLZdOdg" name="Mensile"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_kruNoCW3EeuuQ86SLZdOdg" name="Non mensile">
+    <extend xmi:id="_5aC20CW3EeuuQ86SLZdOdg" extendedCase="_03AwgCW3EeuuQ86SLZdOdg"/>
+    <extend xmi:id="_6Gd38CW3EeuuQ86SLZdOdg" extendedCase="_3qqj4CW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_03AwgCW3EeuuQ86SLZdOdg" name="Meno di 8 ore"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_3qqj4CW3EeuuQ86SLZdOdg" name="Piu di otto ore"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_7OhsMCW3EeuuQ86SLZdOdg" name="Penale"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_8NIpgCW3EeuuQ86SLZdOdg" memberEnd="_8NIpgSW3EeuuQ86SLZdOdg _8NIpgiW3EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_8NIpgSW3EeuuQ86SLZdOdg" type="_3qqj4CW3EeuuQ86SLZdOdg" association="_8NIpgCW3EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_8NIpgiW3EeuuQ86SLZdOdg" type="_7OhsMCW3EeuuQ86SLZdOdg" association="_8NIpgCW3EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_G7mXUCW4EeuuQ86SLZdOdg" name="Utente">
+    <eAnnotations xmi:id="_G7mXUSW4EeuuQ86SLZdOdg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_G7mXUiW4EeuuQ86SLZdOdg" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_IFCroCW4EeuuQ86SLZdOdg" memberEnd="_IFCroSW4EeuuQ86SLZdOdg _IFCroiW4EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_IFCroSW4EeuuQ86SLZdOdg" type="_G7mXUCW4EeuuQ86SLZdOdg" association="_IFCroCW4EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_IFCroiW4EeuuQ86SLZdOdg" type="_ubGxMCUAEeuw2rOJ9qHhKA" association="_IFCroCW4EeuuQ86SLZdOdg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_K5OqgCW4EeuuQ86SLZdOdg" name="Gestore garage">
+    <eAnnotations xmi:id="_K5OqgSW4EeuuQ86SLZdOdg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_K5OqgiW4EeuuQ86SLZdOdg" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_NDtlECW4EeuuQ86SLZdOdg" memberEnd="_NDtlESW4EeuuQ86SLZdOdg _NDtlEiW4EeuuQ86SLZdOdg">
+    <ownedEnd xmi:id="_NDtlESW4EeuuQ86SLZdOdg" type="_K5OqgCW4EeuuQ86SLZdOdg" association="_NDtlECW4EeuuQ86SLZdOdg"/>
+    <ownedEnd xmi:id="_NDtlEiW4EeuuQ86SLZdOdg" type="_5Z1voCUAEeuw2rOJ9qHhKA" association="_NDtlECW4EeuuQ86SLZdOdg"/>
+  </packagedElement>
+</uml:Model>
